@@ -1,0 +1,20 @@
+------------------------------------------------------------------------
+r240 | sutorix | 2016-07-30 04:39:29 +0000 (Sat, 30 Jul 2016) | 1 line
+Changed paths:
+   A /tags/Release 0.8.4 (from /trunk:239)
+
+Tagging as Release 0.8.4
+------------------------------------------------------------------------
+r239 | sutorix | 2016-07-30 04:38:15 +0000 (Sat, 30 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/FishingAce.toc
+
+Beta testing complete, release 0.8.4
+------------------------------------------------------------------------
+r237 | sutorix | 2016-07-30 04:23:34 +0000 (Sat, 30 Jul 2016) | 1 line
+Changed paths:
+   M /trunk/FishingAce.toc
+   M /trunk/LibFishing-1.0.lua
+
+Update fishing library and TOC
+------------------------------------------------------------------------

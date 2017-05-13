@@ -1,0 +1,7 @@
+## Title: Silent World Quest (With Toggle)
+## Interface: 70200
+## Notes: Mutes and hides talking head popups.
+## SavedVariables: SilentWorldQuestMute, SilentWorldQuestSaidHello
+## Author: Kiingy
+
+SilentWorldQuest.lua

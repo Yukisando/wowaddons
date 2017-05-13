@@ -1,0 +1,21 @@
+## Interface: 60200
+## Title: Fishing Ace! |cff7fff7f -Ace3-|r
+## Version: 0.8.4
+## Notes: Simple right click casting.
+## Notes-zhCN: 快速双击钓鱼。
+## Notes-zhTW: 快速雙擊釣魚。
+## Author: Sutorix
+## X-Category: Tradeskill
+## X-AceForum: http://forums.wowace.com/showthread.php?t=4506
+##  X-RelSite-Curse: http://wow.curse.com/downloads/wow-addons/details/fishingbuddy.aspx
+## X-Embeds: Ace3
+## OptionalDeps: Ace3
+## SavedVariablesPerCharacter: FishingAceDB
+## X-Curse-Packaged-Version: Release 0.8.4
+## X-Curse-Project-Name: FishingAce
+## X-Curse-Project-ID: fishing-ace
+## X-Curse-Repository-ID: wow/fishing-ace/mainline
+
+Embeds.xml
+Locales\Locales.xml
+FishingAce.lua

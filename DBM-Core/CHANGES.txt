@@ -1,0 +1,26 @@
+tag 8862b63fac8213bb0c2a9a1d45d4f5c18f65f6e4 7.2.6
+Author:	subversion <svn@deadlybossmods.com>
+Date:	Tue May 2 19:26:07 2017 +0200
+
+Tagging as 7.2.6
+
+commit 68f89c3d332e729fb4e0ece77ca763e6fd41697d
+Author: subversion <svn@deadlybossmods.com>
+Date:   Tue May 2 19:26:07 2017 +0200
+
+    increment version number to 7.2.6
+
+commit 9fdf2c10e94711f17e5383aa05bd50d0d810ba48
+Author: subversion <svn@deadlybossmods.com>
+Date:   Tue May 2 19:09:59 2017 +0200
+
+    Omega via svn r16201:
+    fix errors
+
+commit 134626691b5fc1783ae179cc43ff8c02c8094441
+Author: subversion <svn@deadlybossmods.com>
+Date:   Tue May 2 10:00:13 2017 +0200
+
+    tandanu via svn r16200:
+    increment alpha version
+

@@ -1,0 +1,7 @@
+## Interface: 60200
+## Title: deleteForMe
+## Version: 0.8
+## Notes: Types delete and confirms automatically after suppressing a rare Item.
+## Author: Yukisan
+## URL: www.nathandecastro.uk
+deleteForMe.lua

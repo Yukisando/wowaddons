@@ -1,0 +1,12 @@
+tag a2a35582749c673cb347611f632278d596fa38db v4.1.17
+Author:	Hendrik Leppkes <h.leppkes@gmail.com>
+Date:	Wed Mar 29 09:43:46 2017 +0200
+
+Tag as v4.1.17
+
+commit 3d49caef98e9b6f79734fd45b7559fb3e8e6533a
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Wed Mar 29 09:43:15 2017 +0200
+
+    Separate Blizzard cooldown count from OmniCC cooldown count and disable Blizzard by default
+

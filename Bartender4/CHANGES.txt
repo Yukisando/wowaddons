@@ -1,0 +1,18 @@
+tag 687c79f59023059c8ab5ccfdbcac79fb603be928 4.7.7
+Author:	Hendrik Leppkes <h.leppkes@gmail.com>
+Date:	Tue Mar 28 19:18:38 2017 +0200
+
+Tag as 4.7.7
+
+commit 74bfd217bb4b953014c708269a2e16badac4a4a9
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Tue Mar 28 19:18:27 2017 +0200
+
+    Update TOC to 7.2
+
+commit 233e1c34cc971d43b11b613b96e790e2da1b52f8
+Author: Hendrik Leppkes <h.leppkes@gmail.com>
+Date:   Sun Feb 19 07:43:32 2017 +0100
+
+    7.2 removed the HelpMicroButton, so we don't need to handle it anymore.
+
